@@ -1,4 +1,4 @@
-const React = require('react')
+const React = require('react');
 
 class RegistrationForm extends React.Component {
   render() {
@@ -12,4 +12,4 @@ class RegistrationForm extends React.Component {
   }
 }
 
-module.exports = RegistrationForm
+module.exports = RegistrationForm;
