@@ -8,7 +8,7 @@ class Webpage extends React.Component {
         <h1>The world's coolest webpage.></h1>
         <FillerText />
         <FillerText />
-      </div
+      </div>
     )
   }
 }
